@@ -9,6 +9,7 @@
 - **[Kartik](https://github.com/Kartik728)**
 - **[Ashwani](https://github.com/ashwani212)**
 - **[Kssrao](https://github.com/kssrao13882)**
+- **[Mrfox](https://github.com/mrfox2003)**
 
 ## Device List
 **Realme 3 Pro**
