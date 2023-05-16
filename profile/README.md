@@ -1,5 +1,5 @@
 # CYKEEK-LABS
-![Cykeek-Labs](https://github.com/Cykeek-Labs/.github/assets/70019075/9c0c834e-f049-4460-a702-1625fbc82422)
+![Cykeek-Labs](https://github.com/Cykeek-Labs/.github/assets/70019075/1788cc06-a9b9-4730-876c-0835713afa2f)
 
 **Welcome to Cykeek-Labs here you will find Device Tree for Realme Devices**
 
