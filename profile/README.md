@@ -1,16 +1,12 @@
 # CYKEEK-LABS
-![Cykeek-Labs](https://github.com/Cykeek-Labs/.github/assets/70019075/1788cc06-a9b9-4730-876c-0835713afa2f)
+
+![Cykeek-Labs](https://github.com/Cykeek-Labs/.github/assets/70019075/cad34e61-11ab-4f2b-8807-a9e8f1c9b150)
 
 **Welcome to Cykeek-Labs here you will find Device Tree for Realme Devices**
 
 ## Who's behind me?
 
-### Thanks to
-- **[Rishi](https://github.com/R15Hi)**
-- **[Kartik](https://github.com/Kartik728)**
-- **[Ashwani](https://github.com/ashwani212)**
-- **[Kssrao](https://github.com/kssrao13882)**
-- **[Mrfox](https://github.com/mrfox2003)**
+![Cykeek-Labs](https://github.com/Cykeek-Labs/.github/assets/70019075/21cceaf2-094c-4e65-9af3-56511ee72f47)
 
 ## Device List
 **Realme 3 Pro**
