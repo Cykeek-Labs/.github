@@ -1,6 +1,6 @@
 ![Cykeek_Labs_Enhanced_Main](https://github.com/Cykeek-Labs/.github/assets/70019075/9b9e4956-deb2-49b9-a1cb-c43decf672a1)
 ![Cykeek_Labs_Enhanced_Grateful](https://github.com/Cykeek-Labs/.github/assets/70019075/5400ccc9-51ee-4a29-8f8d-a4f20f40033b)
-![Cykeek_Labs_Enhanced_device](https://github.com/Cykeek-Labs/.github/assets/70019075/4949cd9e-f5af-4317-a256-84fbb50ce60b)
+![Cykeek_Labs_Enhanced_device](https://github.com/Cykeek-Labs/.github/assets/70019075/80f461e4-c322-4047-9729-013c60a5bbc9)
 ![Cykeek_Labs_Enhanced_Access](https://github.com/Cykeek-Labs/.github/assets/70019075/7091a788-e9b2-43a6-aa59-392b5e78d4b0)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cykeek" alt="cykeek" /></a> </p>
